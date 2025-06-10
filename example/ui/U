@@ -1,0 +1,1 @@
+[{"Button1":{"Material":"jj.png","Transform":[0.0,0.0,250.0,250.0]},"Name":"MF1","Priority":0,"Type":"Button"},{"Background":{"Material":"blue.png","Transform":[250.0,250.0,200.0,200.0]},"Name":"J1","Point":{"Material":"yellow.png","Transform":[250.0,250.0,200.0,200.0]},"Priority":0,"R":100.0,"Rate":0.30000001192092896,"Type":"Joy"}]
