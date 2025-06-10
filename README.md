@@ -198,5 +198,3 @@ your_project_root/
 
 本项目采用 [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.txt) 协议开源。  
 你可以自由地学习、改造、分发和商业使用本项目，但必须在衍生作品中同样采用GPL协议并开源。详情见 LICENSE 文件。
-
-> 本项目部分图像处理功能基于 [stb_image.h](https://github.com/nothings/stb)、[stb_image_write.h](https://github.com/nothings/stb)、[stb_image_resize2.h](https://github.com/nothings/stb)，这些库为 Public Domain 或 MIT 协议，详见相关头文件顶部说明。
