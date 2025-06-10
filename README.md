@@ -7,26 +7,7 @@
 > **演示中所用游戏画面与本项目无关，仅为 UI 功能演示用途。所有游戏内容的版权归原开发者所有。**
 
 ### 功能演示
-
-<table>
-  <tr>
-    <td>
-      <video src="animation/limbo_get.mp4" autoplay loop muted playsinline width="220"></video>
-    </td>
-    <td>
-      <video src="animation/limbo_move.mp4" autoplay loop muted playsinline width="220"></video>
-    </td>
-    <td>
-      <video src="animation/limbo_upAd.mp4" autoplay loop muted playsinline width="220"></video>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <video src="animation/brotato.mp4" autoplay loop muted playsinline width="400"></video>
-      <video src="animation/limbo_up.mp4" autoplay loop muted playsinline width="400"></video>
-    </td>
-  </tr>
-</table>
+<video src="animation/limbo_get.mp4" autoplay loop muted playsinline width="220"></video>
 
 ---
 
