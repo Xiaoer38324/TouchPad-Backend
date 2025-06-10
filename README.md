@@ -8,26 +8,7 @@
 
 ### 功能演示
 ## 功能演示
-
-<table>
-  <tr>
-    <td>
-      <video src="https://raw.githubusercontent.com/Xiaoer38324/TouchPad-Backend/main/animation/limbo_get.mp4" autoplay loop muted playsinline width="220"></video>
-    </td>
-    <td>
-      <video src="https://raw.githubusercontent.com/Xiaoer38324/TouchPad-Backend/main/animation/limbo_move.mp4" autoplay loop muted playsinline width="220"></video>
-    </td>
-    <td>
-      <video src="https://raw.githubusercontent.com/Xiaoer38324/TouchPad-Backend/main/animation/limbo_upAd.mp4" autoplay loop muted playsinline width="220"></video>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <video src="https://raw.githubusercontent.com/Xiaoer38324/TouchPad-Backend/main/animation/brotato.mp4" autoplay loop muted playsinline width="400"></video>
-      <video src="https://raw.githubusercontent.com/Xiaoer38324/TouchPad-Backend/main/animation/limbo_up.mp4" autoplay loop muted playsinline width="400"></video>
-    </td>
-  </tr>
-</table>
+<video src="https://raw.githubusercontent.com/Xiaoer38324/TouchPad-Backend/main/animation/limbo_get.mp4"></video>
 ---
 
 ## 功能简介
