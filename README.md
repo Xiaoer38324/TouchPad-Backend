@@ -6,9 +6,7 @@
 
 > **演示中所用游戏画面与本项目无关，仅为 UI 功能演示用途。所有游戏内容的版权归原开发者所有。**
 
-### 功能演示
-## 功能演示
-<video src="https://raw.githubusercontent.com/Xiaoer38324/TouchPad-Backend/main/animation/limbo_get.mp4"></video>
+（明天再研究一下如何把MP4更好的展示。睡觉）
 ---
 
 ## 功能简介
